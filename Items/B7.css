@@ -2,5 +2,7 @@ body {background-color: black; text-align: center;}
 h1 {color: red;}
 h2 {color: yellow}
 p {color: white;}
-.email {position: fixed; right: 0; bottom: 0; background-color: red; width: 100px; height: 50px;}
+.email {position: fixed; right: 0; bottom: 0;}
 .back {position: fixed; top: 0px; left: 0px;}
+a:link, a:visited {background-color: red; color: white; display: inline-block;}
+a:hover {color: black;}
