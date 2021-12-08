@@ -2,3 +2,4 @@ body {background-color: black; text-align: center;}
 h1 {color: red;}
 h2 {color: yellow}
 p {color: white;}
+.email {position: fixed; right: 0; bottom: 0; background-color: red}
