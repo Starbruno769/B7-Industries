@@ -6,3 +6,4 @@ p {color: white;}
 .back {position: fixed; top: 0px; left: 0px;}
 a:link, a:visited {background-color: red; color: white; display: inline-block;}
 a:hover {color: black;}
+.category {}
